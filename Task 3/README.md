@@ -1,1 +1,1 @@
-EDA on Global Terrorism Dataset using PowerBI
+EDA on Global Terrorism Dataset using PowerBI.
